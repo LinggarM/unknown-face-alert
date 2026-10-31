@@ -1,0 +1,9 @@
+env/
+screenshots/*
+!screenshots/.gitkeep
+logs/*
+!logs/.gitkeep
+dataset/*
+!dataset/.gitkeep
+labels.txt
+trainer.yml
